@@ -21,3 +21,24 @@
     color:black;
     text-align:center;
 }
+.info-box li a:focus,.info-box li a hover{
+    background-color:#a60000;
+    color:white;
+}
+.info-box .panel{
+    height:352px;
+    position:relative; 
+    clear:both;
+}
+.info-box article{
+    position:abosolute;
+    top:0;
+    left:0;
+    height:352px;
+    padding:10px;
+    color:white;
+    background-color:#a60000;
+}
+.info-box .active-panel{
+    z-index:1;
+}
