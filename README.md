@@ -7,3 +7,5 @@ The one exception is the [Server-side website programming](https://developer.moz
 
 * https://github.com/mdn/express-locallibrary-tutorial
 * https://github.com/mdn/django-locallibrary-tutorial
+flex-add
+[demo]https://qingming2014.github.io/learning-area/info-box-start.html
